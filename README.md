@@ -2,7 +2,7 @@
 
 ### The purpose of this project is to design a serial transmitter and receiver with variable data length.
 
-This project has been implemented by a group of four people.(me, , , ,)
+This project has been implemented by a group of four people.(me, [ReyhaneAbtahi](https://github.com/ReyhaneAbtahi), , ,)
 
 ## Controller
 <img src="https://github.com/fark00/Serial-Transmitter-Receiver/blob/master/Sim_controller.jpg" >
