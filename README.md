@@ -15,7 +15,8 @@ This project has been implemented by a group of four people.(me, , , ,)
 
 
 ## Requirement:
-I used Visual Studio 2019 for this program.
+* **Xilinx ISE Design Suite v14.7**
+*  **Modelsim SE 10.5**
 
 ## Support
 
