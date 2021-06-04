@@ -32,6 +32,6 @@ Telegram id:
 * [@farzaneh_koohestani](https://t.me/farzaneh_koohestani)
 
 ## License
-[MIT](https://github.com/farkoo/CV-with-Matlab/blob/master/LICENSE)
+[MIT](https://github.com/farkoo/Serial-Transmitter-Receiver/blob/master/LICENSE)
 &#0169; 
 [Farzaneh Koohestani](https://github.com/farkoo)
